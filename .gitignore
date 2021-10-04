@@ -57,7 +57,7 @@ typings/
 # gatsby files
 .cache/
 .gradle/
-public
+# public
 
 # Mac files
 .DS_Store
