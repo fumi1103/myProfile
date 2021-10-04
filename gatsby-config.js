@@ -5,8 +5,8 @@ module.exports = {
       name: `Fumitaka Matsuyama`,
       summary: `松山文貴の自己紹介です。`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://fumi1103.github.io/portfolio`,
+    description: `ラボ半期でやったこと`,
+    siteUrl: `https://fumi1103.github.io/myProfile`,
     social: {
       twitter: `@fumi1103`,
     },
